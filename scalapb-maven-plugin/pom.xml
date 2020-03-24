@@ -4,13 +4,13 @@
   <parent>
     <groupId>net.catte</groupId>
     <artifactId>scalapb-maven</artifactId>
-    <version>1.3-SNAPSHOT</version>
+    <version>1.3-EB</version>
   </parent>
   <artifactId>scalapb-maven-plugin</artifactId>
   <packaging>maven-plugin</packaging>
   <name>ScalaPB Maven Plugin</name>
   <properties>
-    <scalapb.version>0.7.4</scalapb.version>
+    <scalapb.version>0.9.6</scalapb.version>
   </properties>
   <dependencies>
     <dependency>
